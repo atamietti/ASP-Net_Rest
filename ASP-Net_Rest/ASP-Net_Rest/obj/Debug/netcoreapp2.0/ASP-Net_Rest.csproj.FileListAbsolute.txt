@@ -1,0 +1,11 @@
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/bin/Debug/netcoreapp2.0/ASP-Net_Rest.deps.json
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/bin/Debug/netcoreapp2.0/ASP-Net_Rest.runtimeconfig.json
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/bin/Debug/netcoreapp2.0/ASP-Net_Rest.runtimeconfig.dev.json
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/bin/Debug/netcoreapp2.0/ASP-Net_Rest.dll
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/bin/Debug/netcoreapp2.0/ASP-Net_Rest.pdb
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/obj/Debug/netcoreapp2.0/ASP-Net_Rest.csprojResolveAssemblyReference.cache
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/obj/Debug/netcoreapp2.0/ASP-Net_Rest.csproj.CoreCompileInputs.cache
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/obj/Debug/netcoreapp2.0/ASP-Net_Rest.AssemblyInfoInputs.cache
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/obj/Debug/netcoreapp2.0/ASP-Net_Rest.AssemblyInfo.cs
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/obj/Debug/netcoreapp2.0/ASP-Net_Rest.dll
+/Users/Andre/Projects/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/ASP-Net_Rest/obj/Debug/netcoreapp2.0/ASP-Net_Rest.pdb
